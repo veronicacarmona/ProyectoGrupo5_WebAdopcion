@@ -1,0 +1,15 @@
+.rowheader {
+  height: 10vh;
+  color: rgba(255, 0, 0, 0.5);
+}
+
+main {
+  height: 80vh;
+  color: rgba(255, 0, 0, 0.5);
+}
+ footer {
+   height: 10vh;
+ }
+.container {
+  color: rgb(255, 0, 0);
+}
