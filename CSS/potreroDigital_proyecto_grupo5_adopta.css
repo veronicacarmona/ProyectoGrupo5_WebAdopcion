@@ -1,21 +1,38 @@
 header{
-  height: 10vh;
+
   color: rgba(255, 255, 255, 0.5);
 }
 Main{
-  height: 80vh;
+
 
 }
 footer{
-  height: 10vh;
-}
-.separacion{
-  height: 10vh;
-}
-.rowimagen{
-  height: 15vh;
-}
+  }
 
-.carousel-item{
-  height: 50vh;
+  .contenedor{
+      position: center;
+      display: inline-block;
+
+  }
+
+  .texto-encima{
+      position: absolute;
+      top: 10px;
+      left: 1px;
+      font-size: 50px;
+      color:rgb(255, 255, 255);
+      font-family:'Montserrat', sans-serif;
+      font-weight: 800;
+      margin-left: 20px;
+      margin-right: 100px;
+
+  }
+  .centrado{
+      position: absolute;
+      top: 50%;
+      left: 5px;
+      color:rgb(255, 255, 255);
+      font-family:'Montserrat', sans-serif;
+      font-weight: 400;
+      margin-left: 20px;
 }
