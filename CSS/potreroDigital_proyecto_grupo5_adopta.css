@@ -1,0 +1,21 @@
+header{
+  height: 10vh;
+  color: rgba(255, 255, 255, 0.5);
+}
+Main{
+  height: 80vh;
+
+}
+footer{
+  height: 10vh;
+}
+.separacion{
+  height: 10vh;
+}
+.rowimagen{
+  height: 15vh;
+}
+
+.carousel-item{
+  height: 50vh;
+}
