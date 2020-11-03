@@ -4,12 +4,26 @@
 }
 
 main {
-  height: 80vh;
-  color: rgba(255, 0, 0, 0.5);
+    color: rgba(255, 0, 0, 0.5);
 }
  footer {
    height: 10vh;
  }
 .container {
-  color: rgb(255, 0, 0);
+
+
+}
+
+header{
+  background: linear-gradient(to right, #ff5824, #ff9900)
+}
+
+.nav-link {
+  color: rgb(255, 255, 255);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.nav-link disabled{
+  color: rgb(0, 0, 0);
 }
