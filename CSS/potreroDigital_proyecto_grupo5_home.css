@@ -1,10 +1,12 @@
 *{
   font-family: 'Montserrat', sans-serif;
+
 }
 
 body{
-background:url("../Imagenes fotos para slide/background_naranja.png") no-repeat center;
-background-position: right top;
+  background:url("../Imagenes fotos para slide/background_naranja.png") no-repeat center;
+  background-position: right top;
+
 }
 
 p{
@@ -58,6 +60,7 @@ header{
   height: 10vh;
   position: fixed;
   width: 90%;
+  z-index: 1;
   }
 
 .nav-link {
