@@ -60,7 +60,9 @@ h6 {
    background-color: black;
    padding-top: 20px;
  }
-
+hr{
+  border-color: rgb(239, 85, 29);
+}
 
 header{
   background: linear-gradient(to right, #ff5824, #ff9900);
