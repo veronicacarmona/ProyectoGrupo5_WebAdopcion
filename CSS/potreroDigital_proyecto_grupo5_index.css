@@ -39,9 +39,19 @@ p{
 }
 .Seccion3{
   text-align: center;
+
+}
+
+.Ayudar{
+  padding-left: 110px;
+  padding-right: 110px;
 }
 #direccion{
   color: white;
+}
+.formulario{
+  padding-left: 110px;
+  padding-right: 110px;
 }
 
 h3{
@@ -68,10 +78,13 @@ header{
   background: linear-gradient(to right, #ff5824, #ff9900);
   opacity: 0.9;
   height: 10vh;
+  width: 100%;
   position: fixed;
-  width: 90%;
   box-shadow: 2px 1px 5px #541c0e;
   z-index: 1;
+  padding-top: 5px;
+  padding-left: 110px;
+  padding-right: 110px;
   }
 
 .nav-link {
