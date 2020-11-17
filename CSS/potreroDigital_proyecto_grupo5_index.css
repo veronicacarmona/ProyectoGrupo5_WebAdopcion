@@ -1,5 +1,11 @@
-*{
-  font-family: 'Montserrat', sans-serif;
+
+
+@media screen and (min-width:768px){
+  body{
+    background:url("../Imagenes fotos para slide/background_naranja2.png") no-repeat center;
+    background-position: right top;
+
+  }
 
 }
 
@@ -9,10 +15,7 @@ body{
 
 }
 
-p{
-  font-size: 20px;
-  font-weight: normal;
-}
+
 
 #parrafoPresentacion{
   color: white;
@@ -24,19 +27,8 @@ p{
   color: white;
 }
 
-.redes{
-  width: 10px;
-}
-.separacion{
-  height: 20vh;
-  width: 100%;
-}
-.separacion4{
-  height: 140px;
-}
-.separacion5{
-  height: 25px;
-}
+
+
 .Seccion3{
   text-align: center;
 
@@ -46,48 +38,15 @@ p{
   padding-left: 110px;
   padding-right: 110px;
 }
-#direccion{
-  color: white;
-}
+
 .formulario{
   padding-left: 110px;
   padding-right: 110px;
 }
 
-h3{
-  font-weight: 500;
-  }
-h5{
-  font-weight: 700;
-  color: rgb(255, 88, 36);
-}
-h6 {
-  font-weight: 500;
-}
 
-.footer{
-   height: 100px;
-   background-color: black;
-   padding-top: 20px;
- }
+
+
 hr{
   border-color: rgb(239, 85, 29);
-}
-
-header{
-  background: linear-gradient(to right, #ff5824, #ff9900);
-  opacity: 0.9;
-  height: 10vh;
-  width: 100%;
-  position: fixed;
-  box-shadow: 2px 1px 5px #541c0e;
-  z-index: 1;
-  padding-top: 5px;
-  padding-left: 110px;
-  padding-right: 110px;
-  }
-
-.nav-link {
-  color: rgb(255, 255, 255);
-  font-weight: bold;
 }
