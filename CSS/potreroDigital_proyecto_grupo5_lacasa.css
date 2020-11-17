@@ -20,7 +20,10 @@ p{
 .separacion5{
   height: 25px;
 }
-
+.separacion6{
+  height: 10vh;
+  width: 100%;
+}
 h3{
   font-weight: 500;
   }
