@@ -8,19 +8,18 @@
  }
 
 .Participar{
-  background:url("../Imagenes fotos para slide/huesos.png") no-repeat center;
+  background:url("../Imagenes fotos para slide/background_naranja5.png") no-repeat center;
   background-position: left top;
+  z-index: 1;
 }
 
  .formulario{
-   background:url("../Imagenes fotos para slide/background_naranja4.png") no-repeat center;
+   background:url("../Imagenes fotos para slide/huesos.png") no-repeat center;
    background-position: right bottom;
 
  }
 
- .card-title{
-   padding-top: 20px;
-   padding-left: 17px;
+ .tiulosParticipar{
    color: rgb(239, 85, 29);
    font-weight: bold;
 
