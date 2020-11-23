@@ -27,10 +27,7 @@ p{
 h3{
   font-weight: 500;
   }
-h5{
-  font-weight: 700;
-  color: rgb(255, 88, 36);
-}
+
 h6 {
   font-weight: 500;
 }
@@ -44,7 +41,7 @@ h6 {
  header{
    background: linear-gradient(to right, #ff5824, #ff9900);
    opacity: 0.9;
-   height: 10vh;
+   height: 15vh;
    width: 100%;
    position: fixed;
    box-shadow: 2px 1px 5px #541c0e;
@@ -52,9 +49,13 @@ h6 {
    padding-top: 5px;
    padding-left: 110px;
    padding-right: 110px;
-   }
+   color: rgb(255, 255, 255);
+}
 
- .nav-link {
+
+
+.nav-item{
    color: rgb(255, 255, 255);
    font-weight: bold;
+
  }
