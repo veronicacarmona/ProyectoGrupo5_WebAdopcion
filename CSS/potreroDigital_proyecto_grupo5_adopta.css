@@ -1,13 +1,4 @@
-header{
 
-  color: rgba(255, 255, 255, 0.5);
-}
-Main{
-
-
-}
-footer{
-  }
 
   .contenedor{
       position: center;
@@ -60,3 +51,8 @@ body{
   font-weight: 800;
   color: white;
 }
+@media (max-width: 768px){
+  body{
+    background:url("../Imagenes fotos para slide/Adopta_background2.png") no-repeat center;
+    background-position: top;
+  }
