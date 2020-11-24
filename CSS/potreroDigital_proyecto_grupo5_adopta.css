@@ -40,10 +40,23 @@ footer{
       margin-left: 20px;
 }
 body{
-  background:url("../Imagenes fotos para slide/background_naranja3.png") no-repeat center;
-  background-position: bottom;
+
+  background:url("../Imagenes fotos para slide/Adopta_background.png") no-repeat center;
+  background-position: top;
+
 
 }
+
 .button{
   z-index: 2;
+}
+
+#parrafoPresentacion{
+  color: white;
+}
+
+
+#tituloPresentacion{
+  font-weight: 800;
+  color: white;
 }
