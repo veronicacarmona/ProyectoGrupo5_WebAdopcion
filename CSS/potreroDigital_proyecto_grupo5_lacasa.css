@@ -39,18 +39,13 @@ h6 {
  }
 
  header{
-   background: linear-gradient(to right, #ff5824, #ff9900);
+   box-shadow: 2px 1px 5px #541c0e;
    opacity: 0.9;
-   height: 15vh;
    width: 100%;
    position: fixed;
-   box-shadow: 2px 1px 5px #541c0e;
    z-index: 2;
-   padding-top: 5px;
-   padding-left: 110px;
-   padding-right: 110px;
-   color: rgb(255, 255, 255);
 }
+
 
 
 
@@ -59,3 +54,11 @@ h6 {
    font-weight: bold;
 
  }
+@media (max-width: 768px){
+ #direccion{
+   font-size: 14px;
+ }
+ footer{
+   height: 200px;
+ }
+}
